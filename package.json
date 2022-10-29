@@ -2,7 +2,6 @@
   "name": "react-todo",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://pen0914.github.io/React-todo/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
